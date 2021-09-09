@@ -1,0 +1,16 @@
+C:\Users\micha\source\repos\DefineBasicInfo\bin\Debug\net5.0\DefineBasicInfo.exe
+C:\Users\micha\source\repos\DefineBasicInfo\bin\Debug\net5.0\DefineBasicInfo.deps.json
+C:\Users\micha\source\repos\DefineBasicInfo\bin\Debug\net5.0\DefineBasicInfo.runtimeconfig.json
+C:\Users\micha\source\repos\DefineBasicInfo\bin\Debug\net5.0\DefineBasicInfo.runtimeconfig.dev.json
+C:\Users\micha\source\repos\DefineBasicInfo\bin\Debug\net5.0\DefineBasicInfo.dll
+C:\Users\micha\source\repos\DefineBasicInfo\bin\Debug\net5.0\ref\DefineBasicInfo.dll
+C:\Users\micha\source\repos\DefineBasicInfo\bin\Debug\net5.0\DefineBasicInfo.pdb
+C:\Users\micha\source\repos\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.AssemblyInfo.cs
+C:\Users\micha\source\repos\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.dll
+C:\Users\micha\source\repos\DefineBasicInfo\obj\Debug\net5.0\ref\DefineBasicInfo.dll
+C:\Users\micha\source\repos\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.pdb
+C:\Users\micha\source\repos\DefineBasicInfo\obj\Debug\net5.0\DefineBasicInfo.genruntimeconfig.cache
