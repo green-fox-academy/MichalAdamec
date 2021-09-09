@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OneTwoAlot/1.0.0": {
+        "runtime": {
+          "OneTwoAlot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OneTwoAlot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

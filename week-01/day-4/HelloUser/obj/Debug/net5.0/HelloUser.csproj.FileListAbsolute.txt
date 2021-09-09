@@ -1,0 +1,16 @@
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\HelloUser\bin\Debug\net5.0\HelloUser.exe
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\HelloUser\bin\Debug\net5.0\HelloUser.deps.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\HelloUser\bin\Debug\net5.0\HelloUser.runtimeconfig.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\HelloUser\bin\Debug\net5.0\HelloUser.runtimeconfig.dev.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\HelloUser\bin\Debug\net5.0\HelloUser.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\HelloUser\bin\Debug\net5.0\ref\HelloUser.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\HelloUser\bin\Debug\net5.0\HelloUser.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\HelloUser\obj\Debug\net5.0\HelloUser.csproj.AssemblyReference.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\HelloUser\obj\Debug\net5.0\HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\HelloUser\obj\Debug\net5.0\HelloUser.AssemblyInfoInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\HelloUser\obj\Debug\net5.0\HelloUser.AssemblyInfo.cs
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\HelloUser\obj\Debug\net5.0\HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\HelloUser\obj\Debug\net5.0\HelloUser.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\HelloUser\obj\Debug\net5.0\ref\HelloUser.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\HelloUser\obj\Debug\net5.0\HelloUser.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\HelloUser\obj\Debug\net5.0\HelloUser.genruntimeconfig.cache
