@@ -1,0 +1,16 @@
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\CodingHours\obj\Debug\net5.0\CodingHours.csproj.AssemblyReference.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\CodingHours\obj\Debug\net5.0\CodingHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\CodingHours\obj\Debug\net5.0\CodingHours.AssemblyInfoInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\CodingHours\obj\Debug\net5.0\CodingHours.AssemblyInfo.cs
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\CodingHours\obj\Debug\net5.0\CodingHours.csproj.CoreCompileInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\CodingHours\bin\Debug\net5.0\CodingHours.exe
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\CodingHours\bin\Debug\net5.0\CodingHours.deps.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\CodingHours\bin\Debug\net5.0\CodingHours.runtimeconfig.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\CodingHours\bin\Debug\net5.0\CodingHours.runtimeconfig.dev.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\CodingHours\bin\Debug\net5.0\CodingHours.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\CodingHours\bin\Debug\net5.0\ref\CodingHours.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\CodingHours\bin\Debug\net5.0\CodingHours.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\CodingHours\obj\Debug\net5.0\CodingHours.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\CodingHours\obj\Debug\net5.0\ref\CodingHours.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\CodingHours\obj\Debug\net5.0\CodingHours.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\CodingHours\obj\Debug\net5.0\CodingHours.genruntimeconfig.cache

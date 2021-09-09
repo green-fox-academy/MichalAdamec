@@ -1,0 +1,16 @@
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\Classmates\bin\Debug\net5.0\Classmates.exe
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\Classmates\bin\Debug\net5.0\Classmates.deps.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\Classmates\bin\Debug\net5.0\Classmates.runtimeconfig.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\Classmates\bin\Debug\net5.0\Classmates.runtimeconfig.dev.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\Classmates\bin\Debug\net5.0\Classmates.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\Classmates\bin\Debug\net5.0\ref\Classmates.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\Classmates\bin\Debug\net5.0\Classmates.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\Classmates\obj\Debug\net5.0\Classmates.csproj.AssemblyReference.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\Classmates\obj\Debug\net5.0\Classmates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\Classmates\obj\Debug\net5.0\Classmates.AssemblyInfoInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\Classmates\obj\Debug\net5.0\Classmates.AssemblyInfo.cs
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\Classmates\obj\Debug\net5.0\Classmates.csproj.CoreCompileInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\Classmates\obj\Debug\net5.0\Classmates.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\Classmates\obj\Debug\net5.0\ref\Classmates.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\Classmates\obj\Debug\net5.0\Classmates.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-3\Classmates\obj\Debug\net5.0\Classmates.genruntimeconfig.cache
