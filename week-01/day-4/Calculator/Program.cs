@@ -44,7 +44,7 @@ namespace Calculator
 
                         default:
                             Console.WriteLine("Invalid operation, please try again.");
-                            return;
+                        break;
                     }
 
                     Console.WriteLine($"Result is {result}");

@@ -1,0 +1,16 @@
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\CompareLenght\bin\Debug\net5.0\CompareLenght.exe
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\CompareLenght\bin\Debug\net5.0\CompareLenght.deps.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\CompareLenght\bin\Debug\net5.0\CompareLenght.runtimeconfig.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\CompareLenght\bin\Debug\net5.0\CompareLenght.runtimeconfig.dev.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\CompareLenght\bin\Debug\net5.0\CompareLenght.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\CompareLenght\bin\Debug\net5.0\ref\CompareLenght.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\CompareLenght\bin\Debug\net5.0\CompareLenght.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\CompareLenght\obj\Debug\net5.0\CompareLenght.csproj.AssemblyReference.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\CompareLenght\obj\Debug\net5.0\CompareLenght.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\CompareLenght\obj\Debug\net5.0\CompareLenght.AssemblyInfoInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\CompareLenght\obj\Debug\net5.0\CompareLenght.AssemblyInfo.cs
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\CompareLenght\obj\Debug\net5.0\CompareLenght.csproj.CoreCompileInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\CompareLenght\obj\Debug\net5.0\CompareLenght.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\CompareLenght\obj\Debug\net5.0\ref\CompareLenght.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\CompareLenght\obj\Debug\net5.0\CompareLenght.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\CompareLenght\obj\Debug\net5.0\CompareLenght.genruntimeconfig.cache

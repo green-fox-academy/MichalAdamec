@@ -1,0 +1,16 @@
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\Third\bin\Debug\net5.0\Third.exe
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\Third\bin\Debug\net5.0\Third.deps.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\Third\bin\Debug\net5.0\Third.runtimeconfig.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\Third\bin\Debug\net5.0\Third.runtimeconfig.dev.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\Third\bin\Debug\net5.0\Third.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\Third\bin\Debug\net5.0\ref\Third.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\Third\bin\Debug\net5.0\Third.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\Third\obj\Debug\net5.0\Third.csproj.AssemblyReference.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\Third\obj\Debug\net5.0\Third.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\Third\obj\Debug\net5.0\Third.AssemblyInfoInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\Third\obj\Debug\net5.0\Third.AssemblyInfo.cs
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\Third\obj\Debug\net5.0\Third.csproj.CoreCompileInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\Third\obj\Debug\net5.0\Third.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\Third\obj\Debug\net5.0\ref\Third.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\Third\obj\Debug\net5.0\Third.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-5\Third\obj\Debug\net5.0\Third.genruntimeconfig.cache
