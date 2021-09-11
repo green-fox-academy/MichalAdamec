@@ -1,0 +1,16 @@
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\PrintEven\bin\Debug\net5.0\PrintEven.exe
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\PrintEven\bin\Debug\net5.0\PrintEven.deps.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\PrintEven\bin\Debug\net5.0\PrintEven.runtimeconfig.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\PrintEven\bin\Debug\net5.0\PrintEven.runtimeconfig.dev.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\PrintEven\bin\Debug\net5.0\PrintEven.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\PrintEven\bin\Debug\net5.0\ref\PrintEven.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\PrintEven\bin\Debug\net5.0\PrintEven.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\PrintEven\obj\Debug\net5.0\PrintEven.csproj.AssemblyReference.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\PrintEven\obj\Debug\net5.0\PrintEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\PrintEven\obj\Debug\net5.0\PrintEven.AssemblyInfoInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\PrintEven\obj\Debug\net5.0\PrintEven.AssemblyInfo.cs
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\PrintEven\obj\Debug\net5.0\PrintEven.csproj.CoreCompileInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\PrintEven\obj\Debug\net5.0\PrintEven.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\PrintEven\obj\Debug\net5.0\ref\PrintEven.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\PrintEven\obj\Debug\net5.0\PrintEven.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\PrintEven\obj\Debug\net5.0\PrintEven.genruntimeconfig.cache
