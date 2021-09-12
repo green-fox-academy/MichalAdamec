@@ -1,0 +1,16 @@
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\GuessTheNumber\bin\Debug\net5.0\GuessTheNumber.exe
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\GuessTheNumber\bin\Debug\net5.0\GuessTheNumber.deps.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\GuessTheNumber\bin\Debug\net5.0\GuessTheNumber.runtimeconfig.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\GuessTheNumber\bin\Debug\net5.0\GuessTheNumber.runtimeconfig.dev.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\GuessTheNumber\bin\Debug\net5.0\GuessTheNumber.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\GuessTheNumber\bin\Debug\net5.0\ref\GuessTheNumber.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\GuessTheNumber\bin\Debug\net5.0\GuessTheNumber.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\GuessTheNumber\obj\Debug\net5.0\GuessTheNumber.csproj.AssemblyReference.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\GuessTheNumber\obj\Debug\net5.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\GuessTheNumber\obj\Debug\net5.0\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\GuessTheNumber\obj\Debug\net5.0\GuessTheNumber.AssemblyInfo.cs
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\GuessTheNumber\obj\Debug\net5.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\GuessTheNumber\obj\Debug\net5.0\GuessTheNumber.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\GuessTheNumber\obj\Debug\net5.0\ref\GuessTheNumber.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\GuessTheNumber\obj\Debug\net5.0\GuessTheNumber.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\GuessTheNumber\obj\Debug\net5.0\GuessTheNumber.genruntimeconfig.cache

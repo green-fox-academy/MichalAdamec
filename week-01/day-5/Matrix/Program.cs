@@ -12,8 +12,6 @@ namespace Matrix
 
             for (int row = 0; row < mlenght; row++)
             {
-                // Console.WriteLine(matrix [row,0]);
-
                 for (int col = 0; col < mlenght; col++)
                 {
                     matrix[row, col] = 0;

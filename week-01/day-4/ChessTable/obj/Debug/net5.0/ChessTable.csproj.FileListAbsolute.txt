@@ -1,0 +1,16 @@
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\ChessTable\bin\Debug\net5.0\ChessTable.exe
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\ChessTable\bin\Debug\net5.0\ChessTable.deps.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\ChessTable\bin\Debug\net5.0\ChessTable.runtimeconfig.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\ChessTable\bin\Debug\net5.0\ChessTable.runtimeconfig.dev.json
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\ChessTable\bin\Debug\net5.0\ChessTable.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\ChessTable\bin\Debug\net5.0\ref\ChessTable.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\ChessTable\bin\Debug\net5.0\ChessTable.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\ChessTable\obj\Debug\net5.0\ChessTable.csproj.AssemblyReference.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\ChessTable\obj\Debug\net5.0\ChessTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\ChessTable\obj\Debug\net5.0\ChessTable.AssemblyInfoInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\ChessTable\obj\Debug\net5.0\ChessTable.AssemblyInfo.cs
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\ChessTable\obj\Debug\net5.0\ChessTable.csproj.CoreCompileInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\ChessTable\obj\Debug\net5.0\ChessTable.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\ChessTable\obj\Debug\net5.0\ref\ChessTable.dll
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\ChessTable\obj\Debug\net5.0\ChessTable.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-01\day-4\ChessTable\obj\Debug\net5.0\ChessTable.genruntimeconfig.cache
