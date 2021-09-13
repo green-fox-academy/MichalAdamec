@@ -1,0 +1,16 @@
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-1\TakesLonger\bin\Debug\net5.0\TakesLonger.exe
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-1\TakesLonger\bin\Debug\net5.0\TakesLonger.deps.json
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-1\TakesLonger\bin\Debug\net5.0\TakesLonger.runtimeconfig.json
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-1\TakesLonger\bin\Debug\net5.0\TakesLonger.runtimeconfig.dev.json
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-1\TakesLonger\bin\Debug\net5.0\TakesLonger.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-1\TakesLonger\bin\Debug\net5.0\ref\TakesLonger.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-1\TakesLonger\bin\Debug\net5.0\TakesLonger.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-1\TakesLonger\obj\Debug\net5.0\TakesLonger.csproj.AssemblyReference.cache
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-1\TakesLonger\obj\Debug\net5.0\TakesLonger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-1\TakesLonger\obj\Debug\net5.0\TakesLonger.AssemblyInfoInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-1\TakesLonger\obj\Debug\net5.0\TakesLonger.AssemblyInfo.cs
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-1\TakesLonger\obj\Debug\net5.0\TakesLonger.csproj.CoreCompileInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-1\TakesLonger\obj\Debug\net5.0\TakesLonger.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-1\TakesLonger\obj\Debug\net5.0\ref\TakesLonger.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-1\TakesLonger\obj\Debug\net5.0\TakesLonger.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-1\TakesLonger\obj\Debug\net5.0\TakesLonger.genruntimeconfig.cache
