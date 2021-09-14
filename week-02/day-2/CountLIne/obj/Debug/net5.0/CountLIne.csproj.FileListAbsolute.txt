@@ -1,0 +1,17 @@
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\CountLIne\obj\Debug\net5.0\CountLIne.csproj.AssemblyReference.cache
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\CountLIne\obj\Debug\net5.0\CountLIne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\CountLIne\obj\Debug\net5.0\CountLIne.AssemblyInfoInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\CountLIne\obj\Debug\net5.0\CountLIne.AssemblyInfo.cs
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\CountLIne\obj\Debug\net5.0\CountLIne.csproj.CoreCompileInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\CountLIne\bin\Debug\net5.0\CountLIne.exe
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\CountLIne\bin\Debug\net5.0\CountLIne.deps.json
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\CountLIne\bin\Debug\net5.0\CountLIne.runtimeconfig.json
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\CountLIne\bin\Debug\net5.0\CountLIne.runtimeconfig.dev.json
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\CountLIne\bin\Debug\net5.0\CountLIne.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\CountLIne\bin\Debug\net5.0\ref\CountLIne.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\CountLIne\bin\Debug\net5.0\CountLIne.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\CountLIne\obj\Debug\net5.0\CountLIne.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\CountLIne\obj\Debug\net5.0\ref\CountLIne.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\CountLIne\obj\Debug\net5.0\CountLIne.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\CountLIne\obj\Debug\net5.0\CountLIne.genruntimeconfig.cache
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\CountLIne\bin\Debug\net5.0\TextFile.txt

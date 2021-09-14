@@ -1,0 +1,16 @@
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\DivideByZero\bin\Debug\net5.0\DivideByZero.exe
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\DivideByZero\bin\Debug\net5.0\DivideByZero.deps.json
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\DivideByZero\bin\Debug\net5.0\DivideByZero.runtimeconfig.json
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\DivideByZero\bin\Debug\net5.0\DivideByZero.runtimeconfig.dev.json
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\DivideByZero\bin\Debug\net5.0\DivideByZero.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\DivideByZero\bin\Debug\net5.0\ref\DivideByZero.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\DivideByZero\bin\Debug\net5.0\DivideByZero.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\DivideByZero\obj\Debug\net5.0\DivideByZero.csproj.AssemblyReference.cache
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\DivideByZero\obj\Debug\net5.0\DivideByZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\DivideByZero\obj\Debug\net5.0\DivideByZero.AssemblyInfoInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\DivideByZero\obj\Debug\net5.0\DivideByZero.AssemblyInfo.cs
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\DivideByZero\obj\Debug\net5.0\DivideByZero.csproj.CoreCompileInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\DivideByZero\obj\Debug\net5.0\DivideByZero.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\DivideByZero\obj\Debug\net5.0\ref\DivideByZero.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\DivideByZero\obj\Debug\net5.0\DivideByZero.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-2\DivideByZero\obj\Debug\net5.0\DivideByZero.genruntimeconfig.cache
