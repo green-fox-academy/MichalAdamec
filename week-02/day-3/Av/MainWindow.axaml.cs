@@ -27,7 +27,10 @@ namespace Av
             //GoToCenter(foxDraw, xstart, ystart);
             //HorizontalLines(foxDraw, xstart, ystart);
             //CenteredSquare(foxDraw);
-            FourRectangles(foxDraw);
+            //FourRectangles(foxDraw);
+            //PositionSquare(foxDraw, 150, 200);
+            //CenterBoxFunction(foxDraw, 400);
+            ChessBoard(foxDraw);
         }
 
 
@@ -51,18 +54,18 @@ namespace Av
             int y = 50;
             int a = 0;
 
-                param.SetStrokeColor(Color[a++]);
-                param.DrawLine(new Point(x, y), new Point(x + length, y));
+            param.SetStrokeColor(Color[a++]);
+            param.DrawLine(new Point(x, y), new Point(x + length, y));
 
-                param.SetStrokeColor(Color[a++]);
-                param.DrawLine(new Point(x + length, y), new Point(x + length, y + length));
+            param.SetStrokeColor(Color[a++]);
+            param.DrawLine(new Point(x + length, y), new Point(x + length, y + length));
 
-                param.SetStrokeColor(Color[a++]);
-                param.DrawLine(new Point(x + length, y + length), new Point(x, y + length));
+            param.SetStrokeColor(Color[a++]);
+            param.DrawLine(new Point(x + length, y + length), new Point(x, y + length));
 
-                param.SetStrokeColor(Color[a]);
-                param.DrawLine(new Point(x, y + length), new Point(x, y));
-            
+            param.SetStrokeColor(Color[a]);
+            param.DrawLine(new Point(x, y + length), new Point(x, y));
+
         }
         public static void Diagonals(FoxDraw param)
         {
@@ -84,16 +87,16 @@ namespace Av
                 param.DrawLine(new Point(xstart, ystart), new Point(xend, yend));
             }
         }
-        public static void GoToCenter(FoxDraw param,int xstart, int ystart)
+        public static void GoToCenter(FoxDraw param, int xstart, int ystart)
         {
             xstart = 100;
             ystart = 50;
             for (int a = 1; a < 5; a++)
             {
-                  xstart = xstart + (20 * a);
-                  //ystart = ystart + (20 * a);
-                  param.SetStrokeColor(Colors.Green);
-                  param.DrawLine(new Point(xstart, ystart), new Point(250, 250));
+                xstart = xstart + (20 * a);
+                //ystart = ystart + (20 * a);
+                param.SetStrokeColor(Colors.Green);
+                param.DrawLine(new Point(xstart, ystart), new Point(250, 250));
 
             }
         }
@@ -106,7 +109,7 @@ namespace Av
             {
                 a++;
                 param.SetStrokeColor(Colors.Green);
-                param.DrawLine(new Point(xstart, ystart + 100 * a), new Point(xstart + 50, ystart + 100 *a));
+                param.DrawLine(new Point(xstart, ystart + 100 * a), new Point(xstart + 50, ystart + 100 * a));
             }
         }
         public static void CenteredSquare(FoxDraw param)
@@ -128,17 +131,59 @@ namespace Av
             int y = 0;
             int width = 20;
             int heigth = 20;
-;
+            ;
             for (int a = 0; a < 4; a++)
             {
                 param.SetFillColor(Barva[a]);
                 param.DrawRectangle(x + 50 * a, y + 50 * a, width + 50 * a, heigth + 50 * a);
             }
         }
+        public static void PositionSquare(FoxDraw param, int x, int y)
+        {
+            //x = 150;
+            //y = 200;
+            int length = 50;
+            param.DrawRectangle(x, y, length, length);
+        }
+        public static void CenterBoxFunction(FoxDraw param, int length)
+        {
+            List<Color> Barva = new List<Color>(4)
+            { Colors.Blue, Colors.Black, Colors.Pink};
+            int a = 0;
+            while (a < 3)
+            {
+                int lengthnew = length / (a + 1);
+                param.SetFillColor(Barva[a]);
+                param.DrawRectangle(250 - (lengthnew / 2), 250 - (lengthnew / 2), lengthnew, lengthnew);
+                a++;
 
 
+            }
+        }
+        public static void ChessBoard(FoxDraw param)
+        {
+            double squareLength = 500 / 8;
+            for (int x = 0; x <= 7; x++)
+            {
+                double xstart = squareLength;
+                double ystart = squareLength;
+                for (int y = 0; y <=7; y++)
+                {
+                    xstart = squareLength * x;
+                    ystart = squareLength * y;
+                    if ((x + y) % 2 == 0)
+                    {
+                        param.SetFillColor(Colors.Black);
+                        param.DrawRectangle(xstart, ystart, squareLength, squareLength);
+                    }
+                    else
+                        param.SetFillColor(Colors.Red);
+                        param.DrawRectangle(xstart, ystart, squareLength, squareLength);
+                }
+            }
+        }
 
-        private void InitializeComponent()
+    private void InitializeComponent()
         {
             AvaloniaXamlLoader.Load(this);
         }
