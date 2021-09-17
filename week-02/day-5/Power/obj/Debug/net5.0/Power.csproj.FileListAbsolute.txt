@@ -1,0 +1,16 @@
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\Power\bin\Debug\net5.0\Power.exe
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\Power\bin\Debug\net5.0\Power.deps.json
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\Power\bin\Debug\net5.0\Power.runtimeconfig.json
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\Power\bin\Debug\net5.0\Power.runtimeconfig.dev.json
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\Power\bin\Debug\net5.0\Power.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\Power\bin\Debug\net5.0\ref\Power.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\Power\bin\Debug\net5.0\Power.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\Power\obj\Debug\net5.0\Power.csproj.AssemblyReference.cache
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\Power\obj\Debug\net5.0\Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\Power\obj\Debug\net5.0\Power.AssemblyInfoInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\Power\obj\Debug\net5.0\Power.AssemblyInfo.cs
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\Power\obj\Debug\net5.0\Power.csproj.CoreCompileInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\Power\obj\Debug\net5.0\Power.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\Power\obj\Debug\net5.0\ref\Power.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\Power\obj\Debug\net5.0\Power.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\Power\obj\Debug\net5.0\Power.genruntimeconfig.cache

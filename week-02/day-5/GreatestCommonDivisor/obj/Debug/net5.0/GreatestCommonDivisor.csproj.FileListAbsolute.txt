@@ -1,0 +1,16 @@
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.exe
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.deps.json
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.runtimeconfig.json
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.runtimeconfig.dev.json
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\GreatestCommonDivisor\bin\Debug\net5.0\ref\GreatestCommonDivisor.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.csproj.AssemblyReference.cache
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.AssemblyInfoInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.AssemblyInfo.cs
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\GreatestCommonDivisor\obj\Debug\net5.0\ref\GreatestCommonDivisor.dll
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-02\day-5\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.genruntimeconfig.cache
