@@ -1,0 +1,16 @@
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\PostIt\bin\Debug\net5.0\PostIt.exe
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\PostIt\bin\Debug\net5.0\PostIt.deps.json
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\PostIt\bin\Debug\net5.0\PostIt.runtimeconfig.json
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\PostIt\bin\Debug\net5.0\PostIt.runtimeconfig.dev.json
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\PostIt\bin\Debug\net5.0\PostIt.dll
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\PostIt\bin\Debug\net5.0\ref\PostIt.dll
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\PostIt\bin\Debug\net5.0\PostIt.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\PostIt\obj\Debug\net5.0\PostIt.csproj.AssemblyReference.cache
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\PostIt\obj\Debug\net5.0\PostIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\PostIt\obj\Debug\net5.0\PostIt.AssemblyInfoInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\PostIt\obj\Debug\net5.0\PostIt.AssemblyInfo.cs
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\PostIt\obj\Debug\net5.0\PostIt.csproj.CoreCompileInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\PostIt\obj\Debug\net5.0\PostIt.dll
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\PostIt\obj\Debug\net5.0\ref\PostIt.dll
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\PostIt\obj\Debug\net5.0\PostIt.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\PostIt\obj\Debug\net5.0\PostIt.genruntimeconfig.cache
