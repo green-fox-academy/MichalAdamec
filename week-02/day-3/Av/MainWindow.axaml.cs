@@ -40,10 +40,6 @@ namespace Av
             //TrianglesRow(foxDraw, 20, 100, 0, 5);
             TrianglesPyramid(foxDraw, 20, 20, 250, 0);
         }
-
-
-
-
         public static void MiddleLines(FoxDraw param)
         {
             param.SetStrokeColor(Colors.Red);
@@ -56,24 +52,18 @@ namespace Av
         {
             List<Color> Color = new List<Color>()
             {Colors.Blue, Colors.Green, Colors.Red, Colors.Black};
-
             int length = 400;
             int x = 50;
             int y = 50;
             int a = 0;
-
             param.SetStrokeColor(Color[a++]);
             param.DrawLine(new Point(x, y), new Point(x + length, y));
-
             param.SetStrokeColor(Color[a++]);
             param.DrawLine(new Point(x + length, y), new Point(x + length, y + length));
-
             param.SetStrokeColor(Color[a++]);
             param.DrawLine(new Point(x + length, y + length), new Point(x, y + length));
-
             param.SetStrokeColor(Color[a]);
             param.DrawLine(new Point(x, y + length), new Point(x, y));
-
         }
         public static void Diagonals(FoxDraw param)
         {
@@ -190,7 +180,6 @@ namespace Av
                 }
             }
         }
-
         public static void LinePlay(FoxDraw param)
         {
             for (int a = 0; a < 50; a++)
@@ -202,7 +191,6 @@ namespace Av
                 param.DrawLine(0, 0 + gaps, 0 + gaps, 500);
             }
         }
-
         public static void EnvelopeStar(FoxDraw param, int density)
         {
             for (int a = 0; a <= density; a++)

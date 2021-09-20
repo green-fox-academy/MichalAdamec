@@ -1,0 +1,16 @@
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\FiveTrees\bin\Debug\net5.0\FiveTrees.exe
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\FiveTrees\bin\Debug\net5.0\FiveTrees.deps.json
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\FiveTrees\bin\Debug\net5.0\FiveTrees.runtimeconfig.json
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\FiveTrees\bin\Debug\net5.0\FiveTrees.runtimeconfig.dev.json
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\FiveTrees\bin\Debug\net5.0\FiveTrees.dll
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\FiveTrees\bin\Debug\net5.0\ref\FiveTrees.dll
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\FiveTrees\bin\Debug\net5.0\FiveTrees.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\FiveTrees\obj\Debug\net5.0\FiveTrees.csproj.AssemblyReference.cache
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\FiveTrees\obj\Debug\net5.0\FiveTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\FiveTrees\obj\Debug\net5.0\FiveTrees.AssemblyInfoInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\FiveTrees\obj\Debug\net5.0\FiveTrees.AssemblyInfo.cs
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\FiveTrees\obj\Debug\net5.0\FiveTrees.csproj.CoreCompileInputs.cache
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\FiveTrees\obj\Debug\net5.0\FiveTrees.dll
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\FiveTrees\obj\Debug\net5.0\ref\FiveTrees.dll
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\FiveTrees\obj\Debug\net5.0\FiveTrees.pdb
+C:\Users\micha\greenfox\MichalAdamec\week-03\day-1\FiveTrees\obj\Debug\net5.0\FiveTrees.genruntimeconfig.cache

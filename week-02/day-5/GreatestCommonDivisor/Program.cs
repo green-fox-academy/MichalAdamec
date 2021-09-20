@@ -7,20 +7,25 @@ namespace GreatestCommonDivisor
     {
         static void Main(string[] args)
         {
-            int result = CommonDivisor(14, 21);
+            int result = CommonDivisor(125, 90);
             Console.WriteLine(result);
         }
-        static int CommonDivisor(int numb1, int numb2)
+        static int CommonDivisor(int a, int b)
         {
-            int divisor = 1;
-            if ((numb1 % divisor == 0) && (numb2 % divisor == 0))
+            int reminder = b;
+            if (reminder == 0)
             {
-                return divisor;
+                return a;
             }
             else
             {
-                return CommonDivisor(numb1 / divisor + 1, numb2 / divisor + 1);
+                reminder = a % b;
+                return CommonDivisor(b, reminder);
             }
+            //Euclidean Algorithm
+            //GCD of    a, b  ->   b, a % b = b, c  ->  b, c = new a, b
+            //      new a, b  ->   b, a % b = b, c  ->  b, c = new a, b
+            //       .....until (b, 0) c = 0  ->   b = GCD
         }
     }
 }
