@@ -1,4 +1,4 @@
-﻿
+﻿using System.Collections.Generic;
 using System;
 // - You have the `Thing` class
 // - You have the `Fleet` class
@@ -19,7 +19,25 @@ namespace FleetOfThings
     {
         public static void Main(string[] args)
         {
+            //vytvoření  instance typu Fleet (variable type) s názvem "fleet"
             var fleet = new Fleet();
+          
+             
+            //vytvoření instance typu Položka s názvem "task 1 - 4"
+            Polozka task1 = new Polozka("[Get milk");
+            Polozka task2 = new Polozka("Remove the obstacles");
+            Polozka task3 = new Polozka("Stand up");
+            Polozka task4 = new Polozka("Eat lunch");
+
+            fleet.Add(task1);
+            fleet.Add(task2);
+            fleet.Add(task3);
+            fleet.Add(task4);
+
+            task3.Complete();
+            task4.Complete();
+
+            fleet.Print();
 
         }
     }

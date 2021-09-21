@@ -5,16 +5,24 @@ namespace FleetOfThings
 {
     public class Fleet
     {
-        private List<Thing> Things;
+        private List<Polozka> seznam;
 
         public Fleet()
         {
-            Things = new List<Thing>();
+            seznam = new List<Polozka>();
         }
 
-        public void Add(Thing thing)
+        public void Add(Polozka thing) //přidá položku do seznamu <thing>
         {
-            Things.Add(thing);
+            seznam.Add(thing);
+        }
+        public void Print()
+        {
+            for (int a = 0; a < seznam.Count; a++)
+            {
+                Console.Write($"{a + 1}. ");
+                seznam[a].Print();               
+            }
         }
     }
 }
