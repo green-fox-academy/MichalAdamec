@@ -23,7 +23,13 @@ namespace Instruments
     {
         protected string name;
 
+        protected Instrument()
+        {
+
+        }
+
         abstract public void Play();
+        
       
     }
 }

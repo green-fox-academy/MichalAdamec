@@ -57,20 +57,21 @@ namespace AircraftCarrier
         }
         public void Fill()
         {
+            if (storeOfAmmo <= 0)
+            { throw new Exception("out of ammo"); }
+
             int neededAmmo = 0;
             foreach (Aircraft aircraft in aircraftFleet)
             {
                 neededAmmo += aircraft.GetAmmo();
             }
             
-            //if (storeOfAmmo == 0)
-            //{ throw new Exception();
                 if (storeOfAmmo >= neededAmmo)
                 {
                     foreach (Aircraft aircraft in aircraftFleet)
                     {
                         int ammoReturn = aircraft.RefillAmmo(100);
-
+ 
                         storeOfAmmo -= (100 - ammoReturn);
                     }
                 }

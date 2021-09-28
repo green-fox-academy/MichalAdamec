@@ -87,13 +87,12 @@ namespace AircraftCarrier
         }
         public bool IsPriority(string type)
         {
-            bool isPriority;
             if (type == "f35")
             {
-                return isPriority = true;
+                return true;
             }
             else
-                return isPriority = false;
+                return false;
         }
         public int GetAmmo()
         {

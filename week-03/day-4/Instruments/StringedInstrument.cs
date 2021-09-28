@@ -15,18 +15,20 @@ namespace Instruments
     {
         protected int numberOfStrings;
 
+        protected StringedInstrument()
+        {
+        }
+
         protected StringedInstrument(int numberOfStrings)
         {
             this.numberOfStrings = numberOfStrings;
         }
-        public StringedInstrument()
-        {
 
-        }
-        abstract public string Sound();
+        abstract public void Sound();
+
         public override void Play()
         {
-            Sound();
+             Sound();
         }
     }
 }

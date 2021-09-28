@@ -8,17 +8,22 @@ namespace Instruments
 {
     class BassGuitar : StringedInstrument
     {
+        string sound = "Duum-duum-duum";
+
         public BassGuitar()
         {
             numberOfStrings = 4;
+            base.name = "BassGuitar";
         }
-        public BassGuitar(int numberOfStrings) : base(numberOfStrings)
+        public BassGuitar(int numberOfStrings)
         {
             this.numberOfStrings = numberOfStrings;
+            base.name = "BassGuitar";
+
         }
-        public override string Sound()
+        public override void Sound()
         {
-            return "Duum-duum-duum";
+            Console.WriteLine($"{name}, a {numberOfStrings} stringed instrument that {sound}");
         }
     }
 }
