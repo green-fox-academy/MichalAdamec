@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 //The Pirate Ship
 //Create a Ship class.  X
-//The Ship stores Pirateinstances in a list as the crew and has one captain who is also a Pirate.
+//The Ship stores Pirate instances in a list as the crew and has one captain who is also a Pirate.  X
 //When a ship is created it doesn't have a crew or a captain.
 //The ship can be filled with pirates and a captain via FillShip() method.
 //fills the ship with a captain and a random (maximum 113) number of pirates
@@ -24,5 +24,24 @@ namespace Pirate
 {
     class Ship
     {
+        List<Pirate> crew = new List<Pirate>();
+        Pirate captain = new Pirate("Captain");
+        Pirate pirate = new Pirate("another pirate");
+        public Ship()
+        { }
+        public void FillShip()
+        {
+            crew.Add(captain);              //přidá kapitána
+
+            Random rnd = new Random();
+            int numOfPirates = rnd.Next(1, 114);        //přidá náhodný počet pirátů mezi 1-113
+            for (int a = 1; a <= numOfPirates; a++)
+            {
+                crew.Add(pirate);
+            }
+
+        }
+
+
     }
 }
