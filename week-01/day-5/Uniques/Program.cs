@@ -16,25 +16,44 @@ namespace Uniques
             int[] uniqueArray = FindUniqueItems(array);
             foreach (int numb in uniqueArray)
             {
-                Console.Write(numb + " " );
+                Console.Write(numb + " ");
             }
         }
         public static int[] FindUniqueItems(int[] array)
-        {
-            int[] uniqueArray = new int[array.Length];
-            for(int a = 0; a < array.Length; a++)
+        {       
+            bool[] isUniq = new bool[array.Length];         //array of bools, false = duplicit , true = unique
+
+            for (int c = 0; c < array.Length; c++)          //fills bool array with true values
+                isUniq[c] = true;
+
+            for (int a = 0; a < array.Length; a++)          //searching for duplicit values
             {
-                for(int b = 1; b < array.Length; b++)
+                for (int b = a +1; b < array.Length; b++)
                 {
                     if (array[a] == array[b])
                     {
-                        uniqueArray[a] = array[a];
+                        isUniq[b] = false;
                     }
-                    else
-                        uniqueArray[a] = 0;
                 }
             }
-            return uniqueArray;
+            int count = 0;
+            foreach (bool isTrue in isUniq)                 //finding length for new array of unique numbers
+            {
+                if (isTrue == true)
+                    count += 1;
+            }
+
+            int[] uniqueNumbers = new int[count];           //initializing unique numbers array
+            int next = 0;                                   //index for new (smaller) array
+            for (int e = 0; e < array.Length; e++)          //writing unique values into new array
+            {
+                if (isUniq[e] == true)
+                {
+                    uniqueNumbers[next] = array[e];
+                    next += 1;
+                }
+            }
+            return uniqueNumbers;
         }
 
     }
