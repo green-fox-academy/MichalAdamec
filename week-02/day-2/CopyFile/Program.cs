@@ -10,25 +10,25 @@ namespace CopyFile
     {
         static void Main(string[] args)
         {
+            string filename1 = "Text1.txt";
+            string filename2 = "Text2.txt";
+            Console.WriteLine($"Copy was succeful: { CopyFile(filename1, filename2)}");
         }
-        public bool CopyFile(string filename1, string filename2)
+        public static bool CopyFile(string filename1, string filename2)
         {
-            filename1 = "Text1.txt";
-            filename2 = "Text2.txt";
-
             string text = File.ReadAllText(filename1);
             File.WriteAllText(filename2, text);
+            string textCopied = File.ReadAllText(filename2);
 
             bool done;
-            if(filename2 == filename1)
+            if (text == textCopied)
             {
-                return done = true;
+                done = true;
             }
-            return done = false;
+            else
+            done = false;
 
-            Console.WriteLine(done);
-
-
+            return done;
         }
     }
 }

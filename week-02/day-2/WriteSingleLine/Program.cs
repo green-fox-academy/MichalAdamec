@@ -21,10 +21,10 @@ namespace WriteSingleLine
         {
             try
             {
-                string path = "my-File.jpg";
+                string path = "my-File.txt";
                 File.WriteAllText(path, a);
             }
-            catch (Exception)
+            catch (FileNotFoundException)
             {
                 Console.WriteLine("Unable to write file: my-file.txt");
             }
