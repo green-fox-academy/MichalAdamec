@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldRESTApp", "HelloWorldRESTApp.csproj", "{60A48D76-566C-4DC2-8574-2CA71DA5B185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60A48D76-566C-4DC2-8574-2CA71DA5B185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A48D76-566C-4DC2-8574-2CA71DA5B185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A48D76-566C-4DC2-8574-2CA71DA5B185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A48D76-566C-4DC2-8574-2CA71DA5B185}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29C8CB2F-3625-4AD8-ACFE-4CA05D25600A}
+	EndGlobalSection
+EndGlobal
