@@ -1,0 +1,17 @@
+﻿@model FoxClub.Models.FoxServices
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Login page</title>
+</head>
+<body>
+    <h1>Welcome to programmer Fox Club!</h1><br />
+    <p>Please provide a name, so you can associate it to your pet!</p><br />
+
+    <form action="login" method="post">             @*action = z httpPost*@       
+        <label for="name">Name of your pet:</label><br>
+        <input type="text" id="name" name="name" />
+        <input type="submit" value="GO">
+    </form>
+
+</body>
+</html>

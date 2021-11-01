@@ -1,0 +1,36 @@
+﻿@model FoxClub.Models.FoxServices
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Nutrition store</title>
+</head>
+
+<body>
+    <h1>Nutrition store</h1><br />
+    <p>This is fox named</p>
+    <ul>
+        <li><a href="information" method="get">Information</a></li>
+        <li><a href="tricks" method="get">Trick Center</a></li>
+        <li><a href="history">Action history</a></li>
+    </ul><br />
+
+    <form action="nutrition" method="post">
+        <label for="food">Food:</label>
+        <select name="food" id="food">
+            @foreach (var meal in @Model.Food)
+            {
+                <option value="@meal">@meal</option>
+            }
+        </select>
+
+        <label for="Drink">Drink:</label>
+        <select name="drink" id="drink">
+            @foreach (var drink in @Model.Drink)
+            {
+                <option value="@drink">@drink</option>
+            }
+        </select>
+
+        <input type="submit" value="Change" />
+    </form>
+</body>
+</html>

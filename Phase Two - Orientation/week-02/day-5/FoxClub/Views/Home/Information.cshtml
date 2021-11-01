@@ -1,0 +1,46 @@
+﻿@model FoxClub.Models.Fox
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>MrFox</title>
+</head>
+<body>
+    <h1>Information page</h1><br />
+
+    <ul>
+        <li><a href="nutrition?@Model.Name">Nutrition Store</a></li>            @*v url posílám jméno lišky*@
+        <li><a href="tricks">Trick Center</a></li>
+        <li><a href="history">Action history</a></li>
+    </ul><br />
+
+    <img src="~/Pictures/greenfox.png" alt="FoxPicture" style="height:150px;" /><br />
+
+    @*<h3>List of foxes:</h3>
+
+    <form action="information" method="post">
+        <label for="foxes">Choose a fox:</label>
+        <select name="foxes" id="foxes">
+            @foreach(var fox in @Model.Foxes)
+            {
+                <option value="@fox.Name">@fox.Name</option>
+            }
+    </form>*@
+
+    <p>This is @Model.Name. Currently living on @Model.Food and @Model.Drink. He knows @Model.Tricks.Count() tricks.</p><br />
+
+    <h3>Known tricks:</h3>
+    <ul>
+        @if (@Model.Tricks.Count() == 0)
+        {
+            <li>Doesn't know any trick yet.</li>
+        }
+        else
+        {
+            @foreach (var trick in @Model.Tricks)
+            {
+                <li>@trick</li>
+            }
+        }
+    </ul>
+
+</body>
+</html>

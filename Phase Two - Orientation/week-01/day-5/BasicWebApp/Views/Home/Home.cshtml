@@ -1,0 +1,65 @@
+﻿@using System.Globalization;
+@model BasicWebApp.Models.ListOfItems         //model with "m"
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>MyRockStore</title>
+
+    <style>
+        th {
+            border: 1px solid black;
+            background-color: lawngreen;
+        }
+
+        tr:nth-child(even) {
+            border: 1px outset;
+            background-color: lightgrey;
+        }
+
+        td {
+            border: 1px inset white;
+        }
+
+        table {
+            border: 1px solid black;
+        }
+
+        body, table, img {
+            width: 100%
+        }
+    </style>
+</head>
+<body>
+    <img src="~/Pictures/mountain.jpg" alt="Welcome" style="height:150px;" />
+
+    <h1>My unsatysfying rockclimbing hardware store</h1>
+
+    <table style=" border: 1px solid white">
+        <tr>
+            <th style="background-color: burlywood; border-radius: 50px;"><a href="cheapest">Cheapest first</a></th>
+            <th style="background-color: burlywood; border-radius: 50px;"><a href="musthave">Must-have stuff</a></th>
+            <th style="background-color: burlywood; border-radius: 50px;"><a href="available">Only available</a></th>
+            <th style="background-color: burlywood; border-radius: 50px;"><a href="average">Average stock</a></th>
+            <th style="background-color: burlywood; border-radius: 50px;"><a href="expensive">Most expensive stuff for every badass</a></th>
+        </tr>
+    </table>
+    <br />
+    <table style="">
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Quantity of stock</th>
+        </tr>
+        @foreach (var item in @Model.ListFromModel)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@string.Format(new CultureInfo("cs-CZ"), "{0:C2}", item.Price)</td>
+                <td>@item.Quantity</td>
+            </tr>
+
+        }
+    </table>
+</body>
+</html>

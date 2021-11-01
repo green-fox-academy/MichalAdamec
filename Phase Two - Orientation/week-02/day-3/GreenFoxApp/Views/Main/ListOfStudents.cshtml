@@ -1,0 +1,13 @@
+﻿@model GreenFoxApp.Models.ListOfStudents;
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Unordered list of students</title>
+</head>
+<body>
+    <h1>Unordered list of students</h1>
+    <ul>
+        @foreach(var student in students)
+            <li>@Model.surname @Model.Name</li>
+    </ul>
+    </body>
+</html>

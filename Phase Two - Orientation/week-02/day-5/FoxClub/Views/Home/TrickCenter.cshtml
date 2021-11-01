@@ -1,0 +1,27 @@
+﻿@model FoxClub.Models.FoxServices
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Trick center</title>
+</head>
+<body>
+    <h1>Trick center</h1><br />
+
+    <ul>
+        <li><a href="information" method="get">Information</a></li>
+        <li><a href="nutrition" method="get">Nutrition Store</a></li>
+        <li><a href="history">Action history</a></li>
+    </ul><br />
+
+    <form action="tricks" method="post">
+        <label for="tricks">Tricks:</label>
+        <select name="tricks" id="tricks">
+            @foreach (var trick in @Model.TricksList)
+            {
+                <option value="@trick">@trick</option>
+            }
+            <option value="volvo">Volvo</option>
+        </select>
+        <input type="submit" value="Learn" />
+    </form>
+</body>
+</html>
