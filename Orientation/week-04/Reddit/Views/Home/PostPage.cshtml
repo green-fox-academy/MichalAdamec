@@ -1,0 +1,34 @@
+﻿@model Reddit.Models.ViewModels.PostList
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" href="~/StyleSheet.css" />
+    <title>Main page</title>
+</head>
+
+<body>
+    <a href="submit">Submit new post</a><br />
+    <h1>Trending posts</h1><br />
+
+    <table>
+        <tr>
+            <th>Vote Ballance</th>
+            <th>Vote Up</th>
+            <th>Vote Down</th>
+            <th>Post</th>
+            <th>Date of post</th>
+        </tr>
+        @foreach (var post in @Model.ListOfPosts)
+        {
+            <tr>
+                <td>@post.Votes</td>
+                <td><a href="~/vote?id=@post.Id&vote=1">+</a></td>           @*posílání dat do query přes link*@
+                <td><a href="~/vote?id=@post.Id&vote=0">-</a></td>
+                <td><a href="@post.Url">@post.Title</a></td>
+                <td>@post.DateTime</td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

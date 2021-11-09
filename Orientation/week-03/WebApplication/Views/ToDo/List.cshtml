@@ -1,0 +1,41 @@
+﻿@model WebApplication1.Models.ViewModels.ListOfTodos
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>ToDos</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse
+        }
+    </style>
+</head>
+<body>
+    <a href="add">Add new todo</a><br />        @* "add"= routa *@
+    <a href="unfinished">List unfinished todos</a><br />
+    <h1>All Todos:</h1>
+
+    <table>
+        <tr style="background-color:cadetblue">
+            <th>Id</th>
+            <th>Title</th>
+            <th>Is Urgent?</th>
+            <th>Is Done?</th>
+        </tr>
+
+        @foreach (var item in @Model.AllToDos)
+        {
+    <tr style="background-color:aqua">
+        <td>@item.Id</td>
+        <td>@item.Title</td>
+        <td>@item.IsUrgent</td>
+        <td>@item.IsDone</td>
+        <td><a href="@item.Id/delete">Delete</a></td>           @*id posláno jako parametr do routy*@
+        <td><a href="@item.Id/update">Edit</a></td>
+    </tr>
+        }
+
+    </table>
+
+</body>
+</html>

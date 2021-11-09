@@ -1,0 +1,32 @@
+﻿@model BankOfSimba2.Models.ViewModels.Animals
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>List of accounts</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Index</th>
+            <th>Name</th>
+            <th>Ballance</th>
+            <th>Type of animal</th>
+        </tr>
+        @*@foreach (var animal in @Model.AnimalsList)*@
+        @for(int a = 0; a < @Model.AnimalsList.Count; a++)
+        {
+            var animal = @Model.AnimalsList[a];
+        <tr>
+            <td>@(a+1)</td>
+            <td>@animal.Name</td>
+            <td>@animal.Ballance</td>
+            <td>@animal.AnimalType</td>
+        </tr>
+        }
+    </table>
+</body>
+</html>
