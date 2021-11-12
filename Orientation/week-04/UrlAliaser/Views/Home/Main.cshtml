@@ -1,0 +1,21 @@
+﻿@model string
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Form</title>
+</head>
+<body>
+    <h1>Url Aliaser</h1>
+
+    <p>@Model</p><br />
+
+    <form action="save-link"method="post">
+        <label for="url">Url:</label><br />
+        <input type="text" id="url" name="url" /><br />
+
+        <label for="alias">Alias:</label><br />
+        <input type="text"id="alias"name="alias" /><br />
+
+        <input type="submit"value="Submit" />
+    </form>
+    </body>
+</html>
